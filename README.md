@@ -1,15 +1,15 @@
 # Hi there, I'm Priyanka Rajput!
 
-### Student | Influencer | Model | Aspiring front-end developer
+### Student | Influencer | Model | Aspiring Front-End Developer
 
-I'm a 19-year-old college student from *Maharashtra, India, with a passion for creativity, technology, and exploration. I love doing **new and exciting things, and right now, I’m channeling that energy into the world of **web development* and *software engineering*.
+I'm a 19-year-old college student from *Maharashtra, India, with a passion for creativity, learning, and technology. I enjoy trying out **new and exciting things, and right now, I'm focused on building engaging web projects using **HTML, CSS, and JavaScript*. I love expressing my creative side through code and am actively improving my front-end development skills through hands-on practice and personal projects.
 
 ---
 
 ### What I'm up to:
-- Building creative and unique web projects using *HTML, **CSS, and **JavaScript*
-- Exploring the vast world of *software and computer engineering*
-- Sharing my journey as a *student, influencer, and model*
+- Creating beautiful and functional web designs
+- Learning new tools and techniques in front-end development
+- Balancing life as a student, model, and digital creator
 
 ---
 
@@ -20,23 +20,23 @@ I'm a 19-year-old college student from *Maharashtra, India, with a passion for c
 ---
 
 ### Learning Goals:
-- Dive deeper into *JavaScript frameworks* like React
-- Understand the basics of *backend development*
-- Learn about *computer systems, networking, and software engineering principles*
+- Master JavaScript and move into frameworks like *React*
+- Build more responsive, interactive websites
+- Keep growing as a developer and creative thinker
 
 ---
 
 ### Let's Connect:
-- [Instagram](https://instagram.com/yourusername) (Replace with your actual handle)
-- [LinkedIn](https://linkedin.com/in/yourusername) (Optional)
-- [Portfolio/Website](https://yourwebsite.com) (Optional)
+- [https://www.instagram.com/prynkaz?igsh=dDBueGtkeXdka21n) (Replace with your actual handle)
+- [Add me on Snapchat! Username: pieprised https://www.snapchat.com/add/pieprised?share_id=ooGxn0OfJSw&locale=en-GB) (Optional)
+
 
 ---
 
 ### Fun Fact:
-> I mix creativity with code — from modeling shoots to building websites, I love expressing myself in every form!
+> I turn creativity into code — whether it’s modeling, content creation, or web development, I love expressing myself in unique ways!
 
 ---
 
-Thanks for visiting my profile — feel free to check out my projects and drop a star if you like what you see!## Hi there 👋
+Thanks for visiting my profile — feel free to explore my projects and connect with me!
 
