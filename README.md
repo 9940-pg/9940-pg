@@ -27,8 +27,8 @@ I'm a 19-year-old college student from *Maharashtra, India, with a passion for c
 ---
 
 ### Let's Connect:
-- [https://www.instagram.com/prynkaz?igsh=dDBueGtkeXdka21n) 
-- [Add me on Snapchat! Username: pieprised https://www.snapchat.com/add/pieprised?share_id=ooGxn0OfJSw&locale=en-GB) 
+[https://www.linkedin.com/in/priyanka-rajput-162193365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] 
+[t.me/Prynkaz] 
 
 
 ---
