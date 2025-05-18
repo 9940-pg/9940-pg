@@ -1,6 +1,6 @@
 # Hi there, I'm Priyanka Rajput!
 
-### Student | Influencer | Model | Aspiring Front-End Developer
+### Aspiring Front-End Developer
 
 I'm a 19-year-old college student from *Maharashtra, India, with a passion for creativity, learning, and technology. I enjoy trying out **new and exciting things, and right now, I'm focused on building engaging web projects using **HTML, CSS, and JavaScript*. I love expressing my creative side through code and am actively improving my front-end development skills through hands-on practice and personal projects.
 
